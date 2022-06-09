@@ -9,3 +9,6 @@
  ```make clean```   - to remove objects  
  ```make fclean```  - to remove objects and binary files  
  ```make re```   - to re-compile
+ ## Visualize push_swap
+ To see push_swap work in action, first run ```make``` and then the following script:  
+ ```python3 pyviz.py `ruby -e "puts (1..n).to_a.shuffle.join(' ')"```, ```where n = number of elements```  
