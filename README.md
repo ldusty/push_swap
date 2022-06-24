@@ -1,6 +1,6 @@
 # push_swap
  #### Final Score [125/100](https://github.com/ldusty/push_swap/blob/main/pass.pdf)
- Sorting stack a, using stack b. The big_big sort algorithm was used ([tblaase](https://github.com/tblaase/push_swap#explanation-of-my-algorithm)) and linked list.
+ Sorting stack a, using stack b. The algorithm ([youtube](https://www.youtube.com/watch?v=GA9aKzl86nA)) and linked list.
  Details in [subject](https://github.com/ldusty/push_swap/blob/main/en.subject.pdf).
  All files must pass the [norminette](https://github.com/42School/norminette) check.
  ## Usage
